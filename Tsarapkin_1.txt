@@ -1,2 +1,2 @@
-Name: I did a algorithm
+Name: 22BI1_Tsarapkin_Daniil_1
 "Algorithm"
